@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// 测试类写的规范又具体，除此之外可以尝试使用断言进行单元测试。
+
 class
  L2022211972_13_Test {
 	
